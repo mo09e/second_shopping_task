@@ -1,4 +1,4 @@
-# require_relative "shopping_app/seller"
+require_relative "shopping_app/seller"
 require_relative "shopping_app/item"
 require_relative "shopping_app/customer"
 
